@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer |core java, java8 features Specialist | Data Structure and Lagorithm using java| Spring Boot, Hibernate Specialist | REST API Development | Oracle & MySQL | Industry standard tools - Log4j , Swagger |Clean Code Advocate <br><br>
+Backend Developer |core java, java8 features Specialist | Data Structure and Lagorithm using java Specialist| Spring Boot, Hibernate Specialist | REST API Development | Oracle & MySQL | Industry standard tools - Log4j , Swagger |Clean Code Advocate <br><br>
 
 
 ## 🌐 Socials:
